@@ -8,7 +8,7 @@ Simple keyboard case generator module/plugin for openSCAD which can be used for 
 <li>Press "Draw my CAD!"</li>
 <li>Download .dxf file to folder with keyboard.scad module and save dimensions of your .dxf file</li>
 <li>Customize your case in openSCAD</li>
-</ol>
+
 <h3>Example (Planck)</h3>
 
 ```
@@ -30,3 +30,5 @@ keyboard(file="planck.dxf",   //name of your .dxf file
 );
 
 ```
+<li>Press F6 for render and export it</li>
+</ol>
