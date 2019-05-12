@@ -36,6 +36,6 @@ keyboard(file="planck.dxf",   //name of your .dxf file
  <li>kerf (diameter) - Cutting kerf (rendering will be offset by half this)</li>
  <li>holes (array) - Where to place rivet holes</li>
  <li>hole_dia (length) - Diameter of rivet holes</li>
-</ul>
+</ul><br>
 <li>Press F6 for render and export it</li>
 </ol>
