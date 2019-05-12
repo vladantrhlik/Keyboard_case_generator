@@ -30,5 +30,12 @@ keyboard(file="planck.dxf",   //name of your .dxf file
 );
 
 ```
+<h3>More parameters</h3>
+<ul>
+ <li>finger_margin (length) - distance from inside edge to first finger</li>
+ <li>kerf (diameter) - Cutting kerf (rendering will be offset by half this)</li>
+ <li>holes (array) - Where to place rivet holes</li>
+ <li>hole_dia (length) - Diameter of rivet holes</li>
+</ul>
 <li>Press F6 for render and export it</li>
 </ol>
