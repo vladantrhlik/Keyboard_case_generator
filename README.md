@@ -16,7 +16,7 @@ include <keyboard.scad> //import module/plugin
 
 w = 228.602;    //width of .dxf
 h = 76.202;     //height of .dxf
-d = 20;         //height of the case  
+d = 20;         //height of the case, inner height will be d-2*thickness (20-2*3=14mm), because d = height of the case  
 
 keyboard(file="planck.dxf",   //name of your .dxf file
         width = w,            //width of .dxf file
